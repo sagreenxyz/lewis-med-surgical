@@ -1,0 +1,132 @@
+---
+import Layout from '../../layouts/Layout.astro';
+const base = import.meta.env.BASE_URL;
+
+const resources = [
+  {
+    category: "Study Strategies",
+    icon: "🎯",
+    items: [
+      { title: "NCLEX-Style Question Approach", description: "Master the process of applying nursing knowledge to clinical scenarios using the NCLEX decision tree." },
+      { title: "Priority Nursing Concepts", description: "Identify and apply Maslow's Hierarchy and the ABCs (Airway, Breathing, Circulation) to prioritize patient care." },
+      { title: "SBAR Communication", description: "Situation–Background–Assessment–Recommendation framework for effective clinical handoffs." },
+    ],
+  },
+  {
+    category: "Core Nursing Frameworks",
+    icon: "🏥",
+    items: [
+      { title: "Nursing Process (ADPIE)", description: "Assessment, Diagnosis, Planning, Implementation, and Evaluation applied to medical-surgical patients." },
+      { title: "Clinical Judgment Model", description: "NCSBN's Next Generation NCLEX clinical judgment model: Recognize Cues, Analyze Cues, Prioritize Hypotheses, Generate Solutions, Take Action, Evaluate Outcomes." },
+      { title: "Pathophysiology Review", description: "System-by-system review of how disease alters normal physiology, supporting understanding of clinical manifestations and interventions." },
+    ],
+  },
+  {
+    category: "Key Pharmacology Themes",
+    icon: "💊",
+    items: [
+      { title: "Cardiovascular Medications", description: "Antihypertensives, anticoagulants, antidysrhythmics, and heart failure medications with nursing implications." },
+      { title: "Respiratory Medications", description: "Bronchodilators, corticosteroids, and oxygen therapy guidelines for obstructive and restrictive lung diseases." },
+      { title: "Endocrine Medications", description: "Insulin types, oral hypoglycemics, thyroid agents, and corticosteroid therapy management." },
+    ],
+  },
+  {
+    category: "Lab Values Reference",
+    icon: "🔬",
+    items: [
+      { title: "Complete Blood Count (CBC)", description: "Normal ranges for RBC, WBC, hemoglobin, hematocrit, and platelets with clinical significance." },
+      { title: "Basic Metabolic Panel (BMP)", description: "Electrolyte normals (Na⁺, K⁺, Cl⁻, HCO₃⁻), BUN, creatinine, and glucose interpretation." },
+      { title: "Arterial Blood Gases (ABGs)", description: "pH, PaCO₂, PaO₂, SaO₂, and HCO₃⁻ interpretation using the ROME and Tic-Tac-Toe methods." },
+    ],
+  },
+  {
+    category: "Clinical Skills Quick Reference",
+    icon: "⚕️",
+    items: [
+      { title: "Vital Signs Interpretation", description: "Normal adult ranges and clinical significance of deviations in temperature, pulse, respirations, blood pressure, and SpO₂." },
+      { title: "Wound Assessment & Care", description: "Wound staging, assessment parameters (MEASURE), and evidence-based dressing selection." },
+      { title: "Pain Assessment Tools", description: "NRS, Wong-Baker FACES, CPOT, and FLACC scales with guidance on non-pharmacologic and pharmacologic interventions." },
+    ],
+  },
+];
+---
+
+<Layout title="Resources" description="Study resources and reference materials for Lewis's Medical-Surgical Nursing 12th Edition.">
+  <h1 class="page-title">Study Resources</h1>
+  <p class="page-sub">
+    Key frameworks, pharmacology themes, lab references, and clinical skills drawn from
+    <em>Lewis's Medical-Surgical Nursing</em>, 12th Edition.
+  </p>
+
+  {resources.map((section) => (
+    <section class="resource-section">
+      <h2><span class="section-icon">{section.icon}</span> {section.category}</h2>
+      <div class="resource-grid">
+        {section.items.map((item) => (
+          <div class="resource-card">
+            <h3>{item.title}</h3>
+            <p>{item.description}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+  ))}
+</Layout>
+
+<style>
+  .page-title {
+    font-size: clamp(1.6rem, 3vw, 2.2rem);
+    color: var(--color-primary);
+    margin-bottom: 0.25rem;
+  }
+
+  .page-sub {
+    color: var(--color-muted);
+    margin-bottom: 2rem;
+    max-width: 700px;
+  }
+
+  .resource-section {
+    margin-bottom: 2.5rem;
+  }
+
+  .resource-section h2 {
+    font-size: 1.2rem;
+    color: var(--color-primary);
+    border-bottom: 2px solid var(--color-accent-light);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .section-icon { font-size: 1.3rem; }
+
+  .resource-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+
+  .resource-card {
+    background: var(--color-surface);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 1.25rem;
+    border-left: 4px solid var(--color-accent);
+  }
+
+  .resource-card h3 {
+    font-size: 0.95rem;
+    color: var(--color-primary);
+    margin-bottom: 0.4rem;
+    font-weight: 700;
+  }
+
+  .resource-card p {
+    font-size: 0.88rem;
+    color: var(--color-muted);
+    line-height: 1.55;
+  }
+</style>
