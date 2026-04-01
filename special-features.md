@@ -1,0 +1,751 @@
+## Assessment Abnormalities Tables
+- Auditory System, 23, p. 443
+- Breast, 55, p. 1365
+- Cardiovascular System, 35, p. 776
+- Endocrine System, 52, p. 1277
+- Female Reproductive System, 55, p. 1365
+- Fluid and Electrolyte Imbalances, 17, p. 325
+- GI System, 43, p. 1000
+- Hematologic System, 33, p. 703
+- Integumentary System, 24, p. 466
+- Male Reproductive System, 55, p. 1366
+- Musculoskeletal System, 66, p. 1632
+- Nervous System, 60, p. 1477
+- Respiratory System, 27, p. 528
+- Urinary System, 49, p. 1187
+- Vascular Skin Lesions, 33, p. 706
+- Visual System, 22, p. 416
+## Biologic Sex Considerations Boxes
+- AD, 64, p.
+- Asthma, 31, p. 639
+- Cancer, 16, p. 266
+- Cholelithiasis, 48, p. 1167
+- COPD, 31, p. 657
+- Coronary Artery Disease and Acute Coronary Syndrome, 37, p. 822
+- Effects of Aging on Sexual Function, 55, p. 1359
+- Endocrine Problems, 54, p. 1330
+- Headaches, 63, p. 1541
+- Heart Failure, 38, p. 862
+- Hernia, 47, p. 1126
+- Hypertension, 36, p. 798
+- Lung Cancer, 30, p. 624
+- OA, 69, p. 1697
+- Older Adults, 5, p. 66
+- Osteoporosis, 68, p. 1689
+- STIs, 57, p. 1399
+- Urinary Incontinence, 50, p. 1218
+- Urinary Tract Stones, 50, p. 1207
+- Vascular Disorders, 41, p. 933
+## Case Studies
+### End of Chapter Case Studies
+- Acute Respiratory Distress Syndrome, 32, p. 688
+- Alzheimer Disease, 64, p. 1592
+- Anal Cancer, 6, p. 90
+- Anaphylaxis, 14, p. 235
+- Ankylosing Spondylitis, 69, p. 1728
+- Benign Prostatic Hyperplasia With Acute Urinary Retention, 59, p. 1457
+- Breast Cancer, 56, p. 1393
+- Burn Injury, 26, p. 511
+- Chronic Kidney Disease, 51, p. 1260
+- Cirrhosis, 48, p. 1172
+- Colorectal Cancer, 47, p. 1132
+- COPD, 31, p. 669
+- DKA, 53, p. 1319
+- Dysrhythmia: Ventricular Tachycardia, 39, p. 907
+- Fluid and Electrolyte Imbalance, 17, p. 331
+- Glaucoma and Diabetic Retinopathy, 22, p. 434
+- Gonococcal Infection, 57, p. 1410
+- Graves Disease, 54, p. 1350
+- Health Disparities, 2, p. 33
+- Heart Failure, 38, p. 881
+- Hip Fracture and Revision Arthroplasty, 67, p. 1671
+- HIV Infection, 15, p. 262
+- Insomnia, 8, p. 117
+- Intraoperative Patient, 19, p. 363
+- Laryngeal Cancer, 29, p. 593
+- Leukemia, 34, p. 762
+- Mechanical Ventilation, 28, p. 574
+- Melanoma and Dysplastic Nevi, 25, p. 492
+- Ménière Disease, 23, p. 454
+- Myocardial Infarction, 37, p. 856
+- Obesity, 45, p. 1048
+- Older Adults, 5, p. 79
+- Osteoporosis/Hip Fracture, 68, p. 1693
+- Pain, 9, p. 144
+- Painful Bladder and Frequent Urination, 50, p. 1229
+- Patient and Caregiver Teaching, 4, p. 60
+- PCOS, 58, p. 1432
+- Peptic Ulcer Disease, 46, p. 1085
+- Peripheral Artery Disease, 41, p. 958
+- Pneumonia and Lung Cancer, 30, p. 629
+- Postoperative Patient, 20, p. 383
+- Preoperative Patient, 18, p. 348
+- Pressure Injury, 12, p. 196
+- Primary Hypertension, 36, p. 816
+- SCI, 65, p. 1619
+- Seizure Disorder With Headache, 63, p. 1570
+- Shock, 42, p. 982
+- Spiritual Distress at End of Life, 10, p. 159
+- Stress-Induced Illness, 7, p. 103
+- Stroke, 62, p. 1536
+- Substance Use Disorder, 11, p. 174
+- Trauma, 21, p. 403
+- Traumatic Brain Injury, 61, p. 1512
+- Undernutrition, 44, p. 1028
+- Valvular Heart Disease, 40, p. 929
+### Applying Clinical Judgment With Multiple Patients Case Studies
+- Perioperative and Emergency Care, Section 4, p. 405
+- Problems of Ingestion, Digestion, Absorption, and Elimination, Section 9, p. 1174
+- Problems of Oxygenation: Perfusion, Section 8, p. 984
+- Problems of Oxygenation: Transport, Section 7, p. 764
+- Problems of Oxygenation: Ventilation, Section 6, p. 690
+- Problems of Urinary Function, Section 10, p. 1263
+- Problems Related to Altered Sensory Input, Section 5, p. 513
+- Problems Related to Comfort and Coping, Section 2, p. 176
+- Problems Related to Homeostasis and Protection, Section 3, p. 333
+- Problems Related to Movement and Coordination, Section 12, p. 1730
+- Problems Related to Regulatory and Reproductive Mechanisms, Section 11, p. 1459
+### Assessment Case Studies
+- Auditory System, 23, p. 438
+- Cardiovascular System, 35, p. 773
+- Endocrine System, 52, p. 1272
+- Gastrointestinal System, 43, p. 994
+- Hematologic System, 33, p. 700
+- Integumentary System, 24, p. 460
+- Musculoskeletal System, 66, p. 1627
+- Nervous System, 60, p. 1470
+- Reproductive System, 55, p. 1360
+- Respiratory System, 27, p. 520
+- Urinary System, 49, p. 1183
+- Visual System, 22, p. 411
+## Diagnostic Studies Tables
+- Auditory System, 23, p. 443
+- Blood Studies: Urinary System, 49, p. 1189
+- Cardiovascular System, 35, p. 788
+- CBC Studies, 33, p. 708
+- Clotting Studies, 33, p. 708
+- Common Preoperative Diagnostic Studies, 18, p. 342
+- Electrographic Studies: Nervous System, 60, p. 1481
+- Fertility Studies, 55, p. 1369
+- GI System, 43, p. 1002
+- Hematologic System, 33, p. 711
+- Integumentary System, 24, p. 468
+- Interventional Studies, 55, p. 1368
+- Interventional Studies: Cardiovascular System, 35, p. 793
+- Interventional Studies: Musculoskeletal System, 66, p. 1636
+- Laboratory Studies: GI System, 43, p. 1005
+- Liver Function Tests, 43, p. 1006
+- Miscellaneous Blood Studies, 33, p. 710
+- Musculoskeletal System, 66, p. 1634
+- Oxygenation, 27, p. 530
+- Respiratory System, 27, p. 534
+- Radiologic Studies: Endocrine System, 52, p. 1283
+- Radiologic Studies: Male and Female Reproductive Systems, 55, p. 1367
+- Radiologic Studies: Nervous System, 60, p. 1479
+- Respiratory System, 27, p. 534
+- Serology Studies: Cardiovascular System, 35, p. 786
+- Serology Studies: Male and Female Reproductive Systems, 55, p. 1367
+- Serology Studies: Musculoskeletal System, 66, p. 1634
+- Serology and Urine Studies: Endocrine System, 52, p. 1279
+- Shock, 42, p. 964
+- Sputum Studies, 27, p. 533
+- Stroke, 62, p. 1523
+- Urinary System, 49, p. 1190
+- Urine, 49, p. 1188
+- VTE, 41, p. 949
+- Viral Hepatitis, 48, p. 1140
+- Visual System, 22, p. 418
+## Drug Therapy Tables
+- Acute and Chronic Glaucoma, 22, p. 432
+- Acute and Chronic Pancreatitis, 48, p. 1162
+- Adjuncts to General Anesthesia, 19, p. 361
+- Adjuvant Drugs Used for Pain, 9, p. 133
+- AD, 64, p. 1584
+- Androgen Deprivation Therapy for Prostate Cancer, 59, p. 1447
+- Antibiotics, 15, p. 242
+- Anticoagulant Therapy, 41, p. 950
+- Antidiarrheal Drugs, 47, p. 1091
+- Antidysrhythmic Drugs, 39, p. 900
+- Antihypertensive Agents, 36, p. 806
+- Antithrombotic Therapy for Atrial Fibrillation and Atrial Flutter, 39, p. 895
+- Antivirals for Herpes and Cytomegalovirus Infections, 15, p. 243
+- Asthma, 31, p. 647
+- Asthma and COPD, 31, p. 648
+- Bacterial Community-Acquired Pneumonia, 30, p. 602
+- Breast Cancer, 56, p. 1385
+- Burns, 26, p. 504
+- Causes of Medication Errors by Older Adults, 5, p. 77
+- Chemotherapy, 16, p. 278
+- Chronic Stable Angina and Acute Coronary Syndrome, 37, p. 834
+- Cirrhosis, 48, p. 1154
+- Combination Therapy for Hypertension, 36, p. 809
+- Common Bases for Topical Medications, 25, p. 488
+- Common Preoperative Agents, 18, p. 345
+- Constipation, 47, p. 1096
+- Diseases/Disorders Treated With Corticosteroids, 54, p. 1348
+- Disease-Modifying Drugs for Multiple Sclerosis, 63, p. 1559
+- Diuretic Agents, 36, p. 808
+- Drugs That May Cause Photosensitivity, 25, p. 472
+- Effects and Side Effects of Corticosteroids, 54, p. 1348
+- GERD and Peptic Ulcer Disease, 46, p. 1060
+- General Anesthesia, 19, p. 360
+- H. pylori Infection, 46, p. 1071
+- Heart Failure, 38, p. 869
+- Hematopoietic Growth Factors Used in Cancer Treatment, 16, p. 292
+- HIV Infection, 15, p. 254
+- Hormone Therapy, 16, p. 291
+- Hyperlipidemia, 37, p. 828
+- Immunosuppressive Therapy, 14, p. 233
+- Infertility, 58, p. 1413
+- Inflammation and Healing, 12, p. 184
+- Inflammatory Bowel Disease, 47, p. 1108
+- Insomnia, 8, p. 110
+- Insulin Plans, 53, p. 1292
+- Leukemia, 34, p. 748
+- LTBI Regimens, 30, p. 608
+- Managing Side Effects of Pain Medications, 9, p. 128
+- Methods of Chemotherapy Administration, 16, p. 278
+- Nausea and Vomiting, 46, p. 1052
+- OA, 69, p. 1700
+- Obesity, 45, p. 1041
+- Opioid Analgesics, 9, p. 131
+- Oral Agents and Noninsulin Injectable Agents, 53, p. 1297
+- Osteoporosis, 68, p. 1692
+- Parkinson Disease, 63, p. 1564
+- Pulmonary Hypertension, 30, p. 621
+- RA, 69, p. 1706
+- Replacement Factors for Hemophilia, 34, p. 737
+- Rhinitis and Sinusitis, 29, p. 582
+- Safe Medication Use by Older Adults, 5, p. 77
+- Select Antiseizure Agents, 63, p. 1549
+- Select Immunotherapies and Targeted Therapies, 16, p. 289
+- Select Nonopioid Analgesics, 9, p. 129
+- Shock, 42, p. 973
+- Smoking Cessation, 11, p. 166
+- Suggested Options for COPD Treatment, 31, p. 663
+- Tuberculosis, 30, p. 607
+- Tuberculosis Treatment Regimens, 30, p. 608
+- Types of Insulin, 53, p. 1291
+- Viral HBV and HCV, 48, p. 1142
+- Voiding Dysfunction, 50, p. 1222
+## Emergency Management Tables
+- Abdominal Trauma, 47, p. 1101
+- Acute Abdominal Pain, 47, p. 1099
+- Acute GI Bleeding, 46, p. 1083
+- Acute Soft Tissue Injury, 67, p. 1641
+- Acute Thyrotoxicosis, 54, p. 1334
+- Anaphylactic Shock, 14, p. 225
+- Chest Injuries, 30, p. 614
+- Chest Pain, 37, p. 847
+- Chest Trauma, 30, p. 614
+- Depressant Toxicity, 11, p. 170
+- DKA, 53, p. 1311
+- Dysrhythmias, 39, p. 890
+- Emergency Management Tables Throughout the Book, 21, p. 386
+- Eye Injury, 22, p. 421
+- Fractured Extremity, 67, p. 1650
+- Head Injury, 61, p. 1500
+- Hypertensive Crisis, 36, p. 815
+- Hyperthermia, 21, p. 394
+- Hypoglycemia, 53, p. 1313
+- Hypothermia, 21, p. 395
+- Inhalation Injury, 26, p. 500
+- SCI, 65, p. 1600
+- Shock, 42, p. 971
+- Stimulant Toxicity, 11, p. 169
+- Stroke, 62, p. 1526
+- Submersion Injuries, 21, p. 397
+- Tonic-Clonic Seizures, 63, p. 1548
+## Ethical/Legal Dilemmas Boxes
+- Advance Directives, 31, p. 669
+- Allocation of Resources, 51, p. 1256
+- Board of Nursing Disciplinary Action, 11, p. 173
+- Brain Death, 61, p. 1496
+- Competence, 38, p. 875
+- Confidentiality and HIPAA, 57, p. 1409
+- Do Not Resuscitate, 40, p. 923
+- Durable Power of Attorney for Health Care, 6, p. 86
+- Entitlement to Treatment, 67, p. 1658
+- Genetic Testing, 13, p. 210
+- Good Samaritan, 21, p. 402
+- Health Disparities, 2, p. 22
+- Individual vs. Public Health Protection, 15, p. 255
+- Informed Consent, 18, p. 344
+- Medical Futility, 16, p. 298
+- Pain Management, 34, p. 728
+- Pain Management at End of Life, 10, p. 152
+- Patient Adherence, 30, p. 608
+- Rationing, 48, p. 1157
+- Religious Beliefs, 34, p. 757
+- Right to Refuse Treatment, 65, p. 1611
+- Scope and Standards of Practice, 39, p. 899
+- Social Networking: HIPAA Violation, 1, p. 15
+- Withdrawing Treatment, 51, p. 1260
+- Withholding Treatment, 61, p. 508
+## Evidence-Based Practice Boxes
+- Adherence to TB Treatment Program, 30, p. 610
+- Breast Cancer Treatment, 56, p. 1388
+- Condom Use and HIV, 15, p. 258
+- Decreasing Readmissions for Heart Failure, 38, p. 875
+- Depression in Patients With Hemophilia, 34, p. 738
+- Effect of a Sexual Health Discharge Program, 59, p. 1443
+- Enteral Nutrition and Stroke Rehabilitation, 62, p. 1532
+- Health-Related Quality of Life in Patients With Cushing Syndrome, 54, p. 1345
+- Hearing Aid Rehabilitation, 23, p. 452
+- HPV Vaccine and Young Males, 57, p. 1403
+- Interactive Self-Management and DM, 53, p. 1306
+- Managing Pain in the Patient With Communication Problems, 9, p. 142
+- The Mechanically Ventilated Patient and Early Mobilization, 28, p. 563
+- Medication Adherence in Hypertension, 36, p. 814
+- Nurse-Driven Protocol for Catheter Removal, 50, p.1199
+- Nutrition and FMS, 69, p. 1727
+- Oral Health and CKD, 51, p. 1245
+- Participating in Cardiac Rehabilitation, 37, p. 854
+- Participating in Post-Fall Huddles, 1, p. 10
+- Physical Activity and Chronic Obstructive Pulmonary Disease, 31, p. 667
+- Postoperative Delirium, 64, p. 1591
+- Preoperative Ostomy Education, 47, p. 1121
+- Screening and Testing of Hepatitis C Virus, 48, p. 1145
+- Self-Management Education for Ulcerative Colitis, 47, p. 1111
+- Tanning Booths and Skin Cancer, 25, p. 472
+- Technology-Based Devices and Preoperative Anxiety, 18, p. 337
+- Use of Negative Pressure Wound Therapy (NPWT), 12, p. 191
+## Focused Assessment Boxes
+- Auditory System, 23, p. 441
+- Cardiovascular System, 35, p. 779
+- Endocrine System, 52, p. 1278
+- GI System, 43, p. 1002
+- Hematologic System, 33, p. 707
+- Integumentary System, 24, p. 465
+- Musculoskeletal System, 66, p. 1634
+- Nervous System, 60, p. 1476
+- Reproductive System, 55, p. 1366
+- Respiratory System, 27, p. 529
+- Urinary System, 49, p. 1187
+- Visual System, 22, p. 417
+## Genetics in Clinical Practice Boxes
+- alpha-1-Antitrypsin Deficiency, 31, p. 658
+- AD, 64, p. 1577
+- Ankylosing Spondylitis (AS), 69, p. 1714
+- Breast Cancer, 56, p. 1377
+- Cystic Fibrosis, 31, p. 635
+- Diabetes, 53, p. 1287
+- Duchenne and Becker Muscular Dystrophy (MD), 68, p. 1680
+- Familial Adenomatous Polyposis (FAP), 47, p. 1114
+- Familial Hypercholesterolemia, 37, p. 822
+- Genetic Information Nondiscrimination Act (GINA), 13, p. 207
+- Genetics in Clinical Practice Boxes Throughout the Book, 13, p. 205
+- Hemochromatosis, 34, p. 729
+- Hemophilia A and B, 34, p. 736
+- Hereditary Nonpolyposis Colorectal Cancer (HNPCC) or Lynch Syndrome, 47, p. 1115
+- Huntington Disease (HD), 63, p. 1569
+- Ovarian Cancer and BRCA Genetic Mutations, 58, p. 1429
+- Polycystic Kidney Disease (PKD), 50, p. 1214
+- Sickle Cell Disease, 34, p. 725
+## Gerontologic Assessment Differences Tables
+- Adaptations in Physical Assessment Techniques, 3, p. 45
+- Auditory System, 23, p. 438
+- Cardiovascular System, 35, p. 772
+- Cognitive Function, 5, p. 68
+- Effects of Aging on Hematologic Studies, 33, p. 700
+- Effects of Aging on the Immune System, 14, p. 219
+- Endocrine System, 52, p. 1272
+- GI System, 43, p. 994
+- Integumentary System, 24, p. 459
+- Musculoskeletal System, 66, p. 1627
+- Nervous System, 60, p. 1470
+- Reproductive Systems, 55, p. 1359
+- Respiratory System, 27, p. 520
+- Tables Throughout the Book, 5, p. 67
+- Urinary System, 49, p. 1182
+- Visual System, 22, p. 412
+## Health History Tables
+- Auditory System, 23, p. 439
+- Cardiovascular System, 35, p. 774
+- Endocrine System, 52, p. 1273
+- Functional Health Pattern Format, 3, p. 39
+- GI System, 43, p. 995
+- Hematologic System, 33, p. 701
+- Integumentary System, 24, p. 460
+- Musculoskeletal System, 66, p. 1629
+- Nervous System, 60, p. 1471
+- Reproductive System, 55, p. 1361
+- Respiratory System, 27, p. 522
+- Urinary System, 49, p. 1184
+- Visual System, 22, p. 413
+## Interprofessional Care Tables
+- Abnormal Uterine Bleeding, 58, p. 1419
+- Acute Kidney Injury, 51, p. 1236
+- Acute Pancreatitis, 48, p. 1162
+- Acute Pericarditis, 40, p. 915
+- Acute Pulmonary Embolism, 30, p. 618
+- Acute Pyelonephritis, 50, p. 1201
+- Acute Stroke, 62, p. 1523
+- Addison Disease, 54, p. 1347
+- AD, 64, p. 1582
+- Amputation, 67, p. 1664
+- Aortic Dissection, 41, p. 945
+- ARDS, 32, p. 685
+- ARF, 32, p. 678
+- Asthma, 31, p. 644
+- Bacterial Meningitis, 61, p. 1510
+- Bladder Cancer, 50, p. 1217
+- BPH, 59, p. 1437
+- Breast Cancer, 56, p. 1381
+- Burn Injury, 26, p. 501
+- Cardiomyopathy, 40, p. 926
+- Cataract, 22, p. 425
+- Cervical Cord Injury, 65, p. 1601
+- Chlamydial Infections, 57, p. 1397
+- Cholelithiasis and Acute Cholecystitis, 48, p. 1169
+- Chronic Otitis Media, 23, p. 446
+- Cirrhosis, 48, p. 1152
+- CKD, 51, p. 1243
+- Colorectal Cancer, 47, p. 1116
+- Comparison of Headaches, 63, p. 1539
+- COPD, 31, p. 662
+- Cor Pulmonale, 30, p. 622
+- Cushing Syndrome, 54, p. 1343
+- Diverticulosis and Diverticulitis, 47, p. 1124
+- DKA and HHS, 53, p. 1310
+- DM, 53, p. 1290
+- ED, 59, p. 1455
+- Esophageal Cancer, 46, p. 1063
+- Fractures, 67, p. 1647
+- GERD and Hiatal Hernia, 46, p. 1059
+- Genital Herpes, 57, p. 1402
+- Glaucoma, 22, p. 431
+- Gonococcal Infections, 57, p. 1399
+- Gout, 69, p. 1712
+- Head and Neck Cancer, 29, p. 588
+- Headaches, 63, p. 1540
+- Heart Failure, 38, p. 867
+- Hypertension, 36, p. 804
+- Hyperthyroidism, 54, p. 1332
+- Hypothyroidism, 54, p. 1336
+- Inflammatory Bowel Disease, 47, p. 1108
+- Increased Intracranial Pressure, 61, p. 1488
+- Infertility, 58, p. 1413
+- Insomnia, 8, p. 109
+- Intervertebral Disc Disease, 68, p. 1684
+- Iron Deficiency Anemia, 34, p. 720
+- Kidney Cancer, 50, p. 1216
+- Lung Cancer, 30, p. 626
+- Ménière Disease, 23, p. 447
+- Multiple Sclerosis, 63, p. 1558
+- Myasthenia Gravis, 63, p. 1567
+- Neurogenic Bladder, 65, p. 1608
+- Neutropenia, 34, p. 742
+- OA, 69, p. 1699
+- Obesity, 45, p. 1039
+- Oral Cancer, 46, p. 1056
+- Osteoporosis, 68, p. 1690
+- Otosclerosis, 23, p. 446
+- Parkinson Disease, 63, p. 1563
+- Peptic Ulcer Disease, 46, p. 1070
+- Peripheral Artery Disease, 41, p. 935
+- Peritonitis, 47, p. 1104
+- Pneumonia, 30, p. 601
+- Premenstrual Disorders, 58, p. 1417
+- Prostate Cancer, 59, p. 1445
+- Pulmonary Tuberculosis, 30, p. 607
+- RA, 69, p. 1705
+- Retinal Detachment, 22, p. 428
+- Rheumatic Fever, 40, p. 918
+- Scleroderma, 69, p. 1722
+- Seizure Disorder, 63, p. 1547
+- Shock, 42, p. 975
+- SLE, 69, p. 1719
+- Stomach Cancer, 46, p. 1075
+- Syphilis, 57, p. 1406
+- Thrombocytopenia, 34, p. 733
+- Trigeminal Neuralgia, 65, p. 1614
+- UTI, 50, p. 1198
+- Valvular Heart Disease, 40, p. 922
+- Viral Hepatitis, 48, p. 1141
+## Nursing Assessment Tables
+- Acute Coronary Syndrome, 37, p. 850
+- Acute Pancreatitis, 48, p. 1163
+- AD, 64, p. 1585
+- Allergies, 14, p. 223
+- Anemia, 34, p. 718
+- ARF, 32, p. 677
+- Assessment Techniques: Visual System, 22, p. 415
+- Assessment Variations in Light- and Dark-Skinned Persons, 24, p. 466
+- Asthma, 31, p. 653
+- BPH, 58, p. 1440
+- Breast Cancer, 56, p. 1387
+- Care of Patient on Admission to Clinical Unit, 20, p. 382
+- Cholecystitis or Cholelithiasis, 48, p. 1170
+- Cirrhosis, 48, p. 1154
+- Colorectal Cancer, 47, p. 1118
+- Constipation, 47, p. 1098
+- COPD, 31, p. 665
+- Cushing Syndrome, 54, p. 1344
+- Cystic Fibrosis, 31, p. 638
+- Diarrhea, 47, p. 1092
+- DM, 53, p. 1304
+- Fracture, 67, p. 1651
+- Head and Neck Cancer, 29, p. 591
+- Head Injury, 61, p. 1501
+- Headaches, 63, p. 1543
+- Heart Failure, 38, p. 874
+- Hepatitis, 48, p. 1143
+- Hypertension, 36, p. 811
+- Hyperthyroidism, 54, p. 1333
+- IBD, 47, p. 1110
+- Infective Endocarditis (IE), 40, p. 912
+- Leukemia, 34, p. 749
+- Low Back Pain, 68, p. 1681
+- Lung Cancer, 30, p. 628
+- Malnutrition, 44, p. 1015
+- Multiple Sclerosis, 63, p. 1560
+- Nausea and Vomiting, 46, p. 1053
+- Oral Cancer, 46, p. 1057
+- Osteomyelitis, 68, p. 1676
+- Pain, 9, p. 126
+- Parkinson Disease, 63, p. 1565
+- Patient With HIV, 15, p. 256
+- Patient With Obesity, 45, p. 1037
+- Peptic Ulcer Disease, 46, p. 1072
+- Peripheral Artery Disease, 41, p. 937
+- PID, 58, p. 1424
+- Pneumonia, 30, p. 603
+- Pressure Injuries, 12, p. 195
+- Prostate Cancer, 59, p. 1449
+- RA, 69, p. 1708
+- Rheumatic Fever and Rheumatic Heart Disease, 40, p. 918
+- SCI, 65, p. 1603
+- Seizure Disorder, 63, p. 1552
+- SLE, 69, p. 1720
+- Sleep, 8, p. 111
+- STIs, 57, p. 1406
+- Stroke, 62, p. 1528
+- Thrombocytopenia, 34, p. 734
+- Upper GI Bleeding, 46, p. 1082
+- Urinary Tract Stones, 50, p. 1211
+- UTI, 50, p. 1199
+- Valvular Heart Disease, 40, p. 925
+- VTE, 41, p. 953
+- Wound Assessment, 12, p. 188
+## Nursing Management Tables
+- Acute COPD Exacerbation, 31, p. 666
+- Acute Diverticulitis, 47, p. 1124
+- Applying a Wet Compress, 25, p. 487
+- Assessment and Data Collection, 3, p. 37
+- Assisting With Cardioversion, 39, p. 901
+- Blood Transfusions, 34, p. 759
+- Care of the Hospitalized Older Adult, 5, p. 75
+- Care of the Patient After Joint Surgery, 67, p. 1670
+- Care of the Patient After a Hemorrhoidectomy, 47, p. 1130
+- Care of the Patient After Pituitary Surgery, 54, p. 1325
+- Care of the Patient After Spine Surgery, 68, p. 1685
+- Care of the Patient After Thyroid Surgery, 54, p. 1335
+- Care of the Patient Undergoing Bariatric Surgery, 45, p. 1045
+- Care of the Patient Undergoing Cardiac Catheterization, 35, p. 794
+- Care of the Patient Undergoing Closed Liver Biopsy, 43, p. 1007
+- Care of the Patient Undergoing Lumbar Puncture, 60, p. 1479
+- Care of the Patient Undergoing Paracentesis, 48, p. 1155
+- Care of the Patient With Acute Menière Disease, 23, p. 447
+- Care of the Patient With Pneumonia, 30, p. 603
+- Care of the Patient With Seizure Disorder, 63, p. 1553
+- Care of the Patient With a Urethral Catheter, 50, p. 1224
+- Caring for the Patient Requiring Mechanical Ventilation, 28, p. 558
+- Caring for the Patient With an Acute Stroke, 62, p. 1530
+- Caring for the Patient With AD, 64, p. 1586
+- Caring for the Patient With a Cast or Traction, 67, p. 1652
+- Caring for the Patient With Chronic Venous Insufficiency, 41, p. 957
+- Caring for the Patient With Delirium, 64, p. 1591
+- Caring for the Patient With DM, 53, p. 1305
+- Caring for the Patient With Hypertension, 36, p. 813
+- Caring for the Patient With Incontinence, 50, p. 1222
+- Caring for the Patient With Neutropenia, 34, p. 743
+- Caring for the Patient With Osteomyelitis, 68, p. 1677
+- Caring for the Patient With RA, 69, p. 1708
+- Caring for the Patient With a Tracheostomy, 28, p. 571
+- Caring for the Patient With VTE, 41, p. 953
+- Caring for the Postoperative Patient, 20, p. 369
+- Complications of IABP Therapy, 38, p. 879
+- Decreasing Enteral Feeding Misconnections, 44, p. 1024
+- Diarrhea, 47, p. 1092
+- Elder Mistreatment, 5, p. 71
+- Electrolyte and Acid-Base Imbalances, 17, p. 326
+- EN, 44, p. 1023
+- EN Problems, 44, p. 1023
+- Fluid Volumes Changes, 17, p. 309
+- HIV Infection, 15, p. 257
+- Infection Prevention, 15, p. 241
+- Interventions to Promote Health Equity, 2, p. 31
+- IV Therapy, 17, p. 328
+- Managing Distress in Breast Cancer, 56, p. 1390
+- O2 Administration, 28, p. 544
+- Ostomy Care, 47, p. 1122
+- Pain Management, 9, p. 139
+- Patient Receiving Bladder Irrigation, 59, p. 1442
+- Patient With a Bowel Obstruction, 47, p. 1113
+- Patient With a Fever, 12, p. 184
+- Patient Receiving Anticoagulants, 41, p. 954
+- Percutaneous Coronary Intervention, 37, p. 839
+- Physical Care at End of Life, 10, p. 157
+- PN Infusions, 44, p. 1026
+- Postmortem Care, 10, p. 159
+- Problems Caused by Chemotherapy and Radiation Therapy, 16, p. 282
+- Promoting Communication With the Patient With AD, 64, p. 1587
+- Psychosocial Care at End of Life, 10, p. 155
+- Skin Problems, 25, p. 487
+- Specific Types of Tracheostomies, 28, p. 570
+- Stoma and Cannula Care for a Tracheostomy, 28, p. 571
+- Troubleshooting Pacemakers, 39, p. 906
+- Ventilator Alarms, 28, p. 561
+- Wound Care, 12, p. 187
+## Nutrition Therapy Tables
+- 1200-Calorie-Restricted Weight Reduction Diet, 45, p. 1039
+- Celiac Disease, 47, p. 1128
+- CKD, 51, p. 1245
+- DM, 53, p. 1300
+- Effects of Food on Stoma Output, 47, p. 1123
+- Foods High in Iron, 44, p. 1011
+- Foods High in Protein, 44, p. 1010
+- High-Calorie Foods, 16, p. 294
+- High-Calorie, High-Protein Diet, 44, p. 1019
+- High-Fiber Foods, 47, p. 1097
+- High-Potassium Foods, 17, p. 315
+- Low-Sodium Diets, 38, p. 873
+- Maximizing Food Intake in COPD, 31, p. 664
+- MyPlate Tips for a Healthy Lifestyle, 44, p. 1018
+- Nutrients for RBC Production, 34, p. 719
+- Postgastrectomy Dumping Syndrome, 46, p. 1078
+- Protein Foods With High Biologic Value, 16, p. 294
+- Sources of Calcium, 68, p. 1691
+- Therapeutic Lifestyle Changes to Diet, 37, p. 826
+- Tips to Make Diet and Lifestyle Changes, 37, p. 827
+- Urinary Tract Stones, 50, p. 1211
+## Patient & Caregiver Teaching Tables
+- Acute Coronary Syndrome, 37, p. 852
+- Acute or Chronic Sinusitis, 29, p. 586
+- AD, 64, p. 1589
+- Addison Disease, 54, p. 1347
+- After Ear Surgery, 23, p. 446
+- After Eye Surgery, 22, p. 426
+- Anticoagulant Therapy, 41, p. 954
+- Antiretroviral Drugs, 15, p. 259
+- Asthma, 31, p. 657
+- Automatic Epinephrine Injectors, 14, p. 225
+- Autonomic Dysreflexia, 65, p. 1607
+- Avoiding Allergens in Allergic Rhinitis, 29, p. 581
+- Blood Glucose Monitoring (BGM), 53, p. 1303
+- Bowel Management After SCI, 65, p. 1609
+- Cancer Survivors, 16, p. 299
+- Cardiomyopathy, 40, p. 929
+- Cast Care, 67, p. 1653
+- Cirrhosis, 48, p. 1157
+- CKD, 51, p. 1247
+- Constipation, 47, p. 1098
+- COPD, 31, p. 666
+- Corticosteroid Therapy, 54, p. 1349
+- Decreasing the Risk for Antibiotic-Resistant Infection, 15, p. 243
+- DM Management, 53, p. 1307
+- Early Warning Signs of AD, 64, p. 1579
+- Effective Huff Coughing, 28, p. 540
+- Exercise for Patients With DM, 53, p. 1302
+- FAST Warning Signs of Stroke, 62, p. 1516
+- FITT Activity Guidelines for CAD, Chronic Stable Angina, and ACS, 37, p. 826
+- Foot Care, 53, p. 1318
+- Genetic Testing, 13, p. 207
+- GERD, 46, p. 1059
+- Halo Vest Care, 65, p. 1604
+- Head Injury, 61, p. 1501
+- Headaches, 63, p. 1544
+- Heart Failure, 38, p. 876
+- Heat and Cold Therapy, 9, p. 139
+- Home O2 Use, 28, p. 545
+- How to Use a Dry Powder Inhaler (DPI), 31, p. 652
+- How to Use Your Peak Flow Meter, 31, p. 656
+- Hypertension, 36, p. 813
+- Hypothyroidism, 54, p. 1337
+- Ileal Conduit Appliances, 50, p. 1228
+- Implantable Cardioverter-Defibrillator (ICD), 39, p. 902
+- Improving Adherence to ART, 15, p. 259
+- Instructions for the Patient With DM, 53, p. 1307
+- Joint Protection and Energy Conservation, 69, p. 1701
+- Low Back Problems, 68, p. 1681
+- Lower Extremity Amputation, 67, p. 1666
+- Mitral Valve Prolapse (MVP), 40, p. 921
+- Neutropenia, 34, p. 743
+- Ostomy Self-Care, 47, p. 1122
+- Pacemaker, 38, p. 906
+- Pain Management, 9, p. 140
+- Pelvic Floor Muscle (Kegel) Exercises, 50, p. 1221
+- Peptic Ulcer Disease, 46, p. 1073
+- Peripheral Artery Bypass Surgery, 41, p. 938
+- Posterior Hip Replacement, 67, p. 1660
+- Postoperative Laparoscopic Cholecystectomy, 48, p. 1171
+- Preoperative Preparation, 18, p. 343
+- Preparing an Insulin Injection, 53, p. 1293
+- Pressure Injury, 12, p. 196
+- Preventing External Otitis, 23, p. 444
+- Preventing Food Poisoning, 46, p. 1084
+- Preventing Musculoskeletal Problems in Older Adults, 67, p. 1639
+- Prevention and Early Treatment of Lyme Disease, 69, p. 1713
+- Prevention of Hypokalemia, 17, p. 316
+- Protecting Small Joints, 69, p. 1709
+- Pursed-Lip Breathing, 28, p. 540
+- Radiation Skin Reactions, 16, p. 287
+- Reducing Barriers to Pain Management, 9, p. 141
+- Reducing Risk Factors for Coronary Artery Disease, 37, p. 825
+- Seizure Disorder, 63, p. 1553
+- Sexual Activity After Acute Coronary Syndrome, 37, p. 854
+- Signs and Symptoms Patients With AIDS Need to Report, 15, p. 260
+- Skin Care After SCI, 65, p. 1610
+- SLE, 69, p. 1720
+- Sleep Hygiene, 8, p. 110
+- Smoking and Tobacco Use Cessation, 11, p. 165
+- STIs, 57, p. 1408
+- Surgical Discharge, 20, p. 382
+- Thrombocytopenia, 34, p. 735
+- UTI, 50, p. 1200
+## Promoting Health Equity Boxes
+- AD, 64, p. 1576
+- Brain Tumors, 61, p. 1502
+- Breast Cancer, 56, p. 1386
+- Cancer, 16, p. 299
+- Cancers of the Male Reproductive System, 59, p. 1443
+- Chronic Kidney Disease, 51, p. 1239
+- Colorectal Cancer, 47, p. 1114
+- Coronary Artery Disease, 37, p. 821
+- DM, 53, p. 1288
+- Heart Failure, 38, p. 860
+- Hypertension, 36, p. 798
+- Liver, Pancreas, and Gallbladder Problems, 48, p. 1137
+- Lung Cancer, 30, p. 624
+- Obesity, 45, p. 1032
+- Oral, Pharyngeal, and Esophageal Problems, 46, p. 1055
+- Promoting Health Equity Boxes Throughout the Book, 2, p. 22
+- STIs, 57, p. 1396
+- Skin Cancer, 25, p. 474
+- Stroke, 62, p. 1517
+- Tuberculosis, 30, p. 604
+- Visual Problems, 22, p. 414
+## Promoting Population Health Boxes
+- Decreasing Risk for Cognitive Decline, 64, p. 1585
+- Health Impact of Good Oral Hygiene, 46, p. 1057
+- Health Impact of Maintaining a Healthy Weight, 45, p. 1036
+- Health Impact of Physical Activity, 67, p. 1640
+- Health Impact of a Well-Balanced Diet, 44, p. 1010
+- Improving the Health and Well-Being of LGBTQ+ Persons, 6, p. 86
+- Maintaining a Healthy Weight, 45, p. 1038
+- Preventing DM, 53, p. 1305
+- Preventing OA, 69, p. 1701
+- Preventing Respiratory Diseases, 30, p. 597
+- Preventing STIs, 57, p. 1407
+- Prevention and Detection of CKD, 51, p. 1247
+- Prevention and Early Detection of Cancer, 16, p. 273
+- Prevention and Early Detection of HIV, 15, p. 258
+- Promoting Health in Older Adults, 5, p. 75
+- Promoting Healthy Hearing, 23, p. 451
+- Reducing Fall Risk, 67, p. 1639
+- Reducing the Risk for Head Injuries, 61, p. 1501
+- Reducing the Risk for Musculoskeletal Injuries, 67, p. 1639
+- Responsible Eye Care, 22, p. 419
+- Strategies to Reduce Burn Injury in Homes, 26, p. 495
+- Stroke Prevention, 62, p. 1524
