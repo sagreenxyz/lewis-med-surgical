@@ -1,0 +1,314 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const concepts = [
+  {
+    name: "Acid-Base Balance",
+    conditions: [
+      "Chronic Kidney Disease",
+      "Diarrhea",
+      "Metabolic Acidosis",
+      "Metabolic Alkalosis",
+      "Respiratory Acidosis",
+      "Respiratory Alkalosis",
+    ],
+  },
+  {
+    name: "Cellular Regulation",
+    conditions: [
+      "Anemia",
+      "Breast Cancer",
+      "Cervical Cancer",
+      "Colon Cancer",
+      "Endometrial Cancer",
+      "Head and Neck Cancer",
+      "Leukemia",
+      "Lung Cancer",
+      "Lymphoma",
+      "Melanoma",
+      "Prostate Cancer",
+    ],
+  },
+  {
+    name: "Clotting",
+    conditions: [
+      "Disseminated Intravascular Coagulopathy",
+      "Pulmonary Embolism",
+      "Thrombocytopenia",
+      "Venous Thromboembolism",
+    ],
+  },
+  {
+    name: "Cognition",
+    conditions: [
+      "Alzheimer Disease",
+      "Delirium",
+    ],
+  },
+  {
+    name: "Elimination",
+    conditions: [
+      "Benign Prostatic Hypertrophy",
+      "Chronic Kidney Disease",
+      "Constipation",
+      "Diarrhea",
+      "Intestinal Obstruction",
+      "Pyelonephritis",
+      "Prostatitis",
+      "Renal Calculi",
+    ],
+  },
+  {
+    name: "Fluids and Electrolytes",
+    conditions: [
+      "Burns",
+      "Hyperkalemia",
+      "Hypernatremia",
+      "Hypokalemia",
+      "Hyponatremia",
+    ],
+  },
+  {
+    name: "Gas Exchange",
+    conditions: [
+      "Acute Respiratory Failure",
+      "Acute Respiratory Distress Syndrome",
+      "Asthma",
+      "Chronic Obstructive Pulmonary Disease",
+      "Cystic Fibrosis",
+      "Lung Cancer",
+      "Pulmonary Embolism",
+    ],
+  },
+  {
+    name: "Glucose Regulation",
+    conditions: [
+      "Cushing Syndrome",
+      "Diabetes",
+    ],
+  },
+  {
+    name: "Hormonal Regulation",
+    conditions: [
+      "Addison Disease",
+      "Hyperthyroidism",
+      "Hypothyroidism",
+    ],
+  },
+  {
+    name: "Immunity",
+    conditions: [
+      "Allergic Rhinitis",
+      "Anaphylaxis",
+      "HIV Infection",
+      "Organ Transplantation",
+      "Peptic Ulcer Disease",
+    ],
+  },
+  {
+    name: "Infection",
+    conditions: [
+      "Antimicrobial Resistant Infections",
+      "COVID-19",
+      "Health Care-Associated Infections",
+      "Hepatitis",
+      "Pneumonia",
+      "Tuberculosis",
+      "Urinary Tract Infection",
+    ],
+  },
+  {
+    name: "Inflammation",
+    conditions: [
+      "Appendicitis",
+      "Cholecystitis",
+      "Glomerulonephritis",
+      "Pancreatitis",
+      "Pelvic Inflammatory Disease",
+      "Peritonitis",
+      "Rheumatoid Arthritis",
+    ],
+  },
+  {
+    name: "Intracranial Regulation",
+    conditions: [
+      "Brain Tumor",
+      "Head Injury",
+      "Meningitis",
+      "Seizure Disorder",
+      "Stroke",
+    ],
+  },
+  {
+    name: "Mobility",
+    conditions: [
+      "Fractures",
+      "Low Back Pain",
+      "Multiple Sclerosis",
+      "Osteoarthritis",
+      "Parkinson Disease",
+      "Spinal Cord Injury",
+    ],
+  },
+  {
+    name: "Nutrition",
+    conditions: [
+      "Gastroesophageal Reflux Disease",
+      "Inflammatory Bowel Disease",
+      "Metabolic Syndrome",
+      "Malnutrition",
+      "Obesity",
+    ],
+  },
+  {
+    name: "Perfusion",
+    conditions: [
+      "Acute Coronary Syndrome",
+      "Atrial Fibrillation",
+      "Cardiogenic Shock",
+      "Endocarditis",
+      "Heart Failure",
+      "Hyperlipidemia",
+      "Hypertension",
+      "Hypovolemic Shock",
+      "Mitral Valve Prolapse",
+      "Peripheral Artery Disease",
+      "Septic Shock",
+      "Sickle Cell Disease",
+    ],
+  },
+  {
+    name: "Reproduction",
+    conditions: [
+      "Early Pregnancy Loss",
+      "Ectopic Pregnancy",
+      "Infertility",
+    ],
+  },
+  {
+    name: "Sensory Perception",
+    conditions: [
+      "Cataracts",
+      "Glaucoma",
+      "Hearing Loss",
+      "Macular Degeneration",
+      "Otitis Media",
+    ],
+  },
+  {
+    name: "Sexuality",
+    conditions: [
+      "Erectile Dysfunction",
+      "Leiomyomas",
+      "Menopause",
+      "Sexually Transmitted Infection",
+    ],
+  },
+  {
+    name: "Sleep",
+    conditions: [
+      "Insomnia",
+      "Sleep Apnea",
+    ],
+  },
+  {
+    name: "Thermoregulation",
+    conditions: [
+      "Frostbite",
+      "Heat Stroke",
+      "Hyperthyroidism",
+    ],
+  },
+  {
+    name: "Tissue Integrity",
+    conditions: [
+      "Burns",
+      "Pressure Injuries",
+      "Wound Healing",
+    ],
+  },
+];
+---
+
+<Layout title="Concept Exemplars" description="Concept exemplars organized by nursing concept category from Lewis's Medical-Surgical Nursing 12th Edition.">
+  <h1 class="page-title">Concept Exemplars</h1>
+  <p class="page-sub">
+    Clinical conditions organized by core nursing concept from
+    <em>Lewis's Medical-Surgical Nursing</em>, 12th Edition. Each concept is illustrated
+    through representative disease exemplars to reinforce conceptual understanding.
+  </p>
+
+  <div class="concepts-grid">
+    {concepts.map((concept) => (
+      <div class="concept-card">
+        <h2 class="concept-name">{concept.name}</h2>
+        <ul class="conditions-list">
+          {concept.conditions.map((condition) => (
+            <li>{condition}</li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+</Layout>
+
+<style>
+  .page-title {
+    font-size: clamp(1.6rem, 3vw, 2.2rem);
+    color: var(--color-primary);
+    margin-bottom: 0.25rem;
+  }
+
+  .page-sub {
+    color: var(--color-muted);
+    margin-bottom: 2rem;
+    max-width: 700px;
+  }
+
+  .concepts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.25rem;
+    padding-bottom: 2rem;
+  }
+
+  .concept-card {
+    background: var(--color-surface);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+
+  .concept-name {
+    background: var(--color-primary);
+    color: #fff;
+    padding: 0.65rem 1.1rem;
+    font-size: 0.95rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+
+  .conditions-list {
+    list-style: none;
+    padding: 0.5rem 0;
+    margin: 0;
+  }
+
+  .conditions-list li {
+    padding: 0.4rem 1.1rem;
+    font-size: 0.9rem;
+    color: var(--color-text);
+    border-bottom: 1px solid #eaf0f6;
+  }
+
+  .conditions-list li:last-child {
+    border-bottom: none;
+  }
+
+  .conditions-list li::before {
+    content: "•";
+    color: var(--color-accent);
+    margin-right: 0.5rem;
+    font-weight: bold;
+  }
+</style>
