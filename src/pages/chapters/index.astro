@@ -1,0 +1,215 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const units = [
+  {
+    number: 1,
+    title: "Concepts in Nursing Practice",
+    chapters: [
+      { num: 1, title: "Professional Nursing Practice" },
+      { num: 2, title: "Health Equity and Socially Determined Health" },
+      { num: 3, title: "Health History and Physical Examination" },
+      { num: 4, title: "Patient and Caregiver Teaching" },
+      { num: 5, title: "Chronic Illness and Older Adults" },
+      { num: 6, title: "Stress Management" },
+      { num: 7, title: "Sleep and Sleep Disorders" },
+      { num: 8, title: "Pain" },
+      { num: 9, title: "Palliative and End-of-Life Care" },
+    ],
+  },
+  {
+    number: 2,
+    title: "Immune Problems",
+    chapters: [
+      { num: 10, title: "Inflammation and Wound Healing" },
+      { num: 11, title: "Genetics" },
+      { num: 12, title: "Altered Immune Responses and Transplantation" },
+      { num: 13, title: "Infection" },
+      { num: 14, title: "Cancer" },
+    ],
+  },
+  {
+    number: 3,
+    title: "Perioperative Care",
+    chapters: [
+      { num: 15, title: "Preoperative Care" },
+      { num: 16, title: "Intraoperative Care" },
+      { num: 17, title: "Postoperative Care" },
+    ],
+  },
+  {
+    number: 4,
+    title: "Problems Related to Altered Sensory Input",
+    chapters: [
+      { num: 18, title: "Assessment and Management: Visual Problems" },
+      { num: 19, title: "Assessment and Management: Auditory and Balance Problems" },
+      { num: 20, title: "Assessment and Management: Integumentary Problems" },
+      { num: 21, title: "Burns" },
+    ],
+  },
+  {
+    number: 5,
+    title: "Problems of Oxygenation: Ventilation",
+    chapters: [
+      { num: 22, title: "Assessment: Respiratory System" },
+      { num: 23, title: "Upper Respiratory Problems" },
+      { num: 24, title: "Lower Respiratory Problems" },
+      { num: 25, title: "Obstructive Pulmonary Diseases" },
+    ],
+  },
+  {
+    number: 6,
+    title: "Problems of Oxygenation: Transport",
+    chapters: [
+      { num: 26, title: "Assessment: Hematologic System" },
+      { num: 27, title: "Hematologic Problems" },
+    ],
+  },
+  {
+    number: 7,
+    title: "Problems of Oxygenation: Perfusion",
+    chapters: [
+      { num: 28, title: "Assessment: Cardiovascular System" },
+      { num: 29, title: "Hypertension" },
+      { num: 30, title: "Coronary Artery Disease and Acute Coronary Syndrome" },
+      { num: 31, title: "Heart Failure" },
+      { num: 32, title: "Dysrhythmias" },
+      { num: 33, title: "Inflammatory and Structural Heart Disorders" },
+      { num: 34, title: "Vascular Disorders" },
+    ],
+  },
+  {
+    number: 8,
+    title: "Problems of Ingestion, Digestion, Absorption, and Elimination",
+    chapters: [
+      { num: 35, title: "Assessment: Gastrointestinal System" },
+      { num: 36, title: "Nutritional Problems" },
+      { num: 37, title: "Obesity" },
+      { num: 38, title: "Upper Gastrointestinal Problems" },
+      { num: 39, title: "Lower Gastrointestinal Problems" },
+      { num: 40, title: "Assessment and Management: Liver, Pancreas, and Biliary Tract Problems" },
+    ],
+  },
+  {
+    number: 9,
+    title: "Problems of Urinary Function",
+    chapters: [
+      { num: 41, title: "Assessment: Urinary System" },
+      { num: 42, title: "Renal and Urologic Problems" },
+      { num: 43, title: "Acute Kidney Injury and Chronic Kidney Disease" },
+    ],
+  },
+  {
+    number: 10,
+    title: "Problems Related to Regulatory and Reproductive Mechanisms",
+    chapters: [
+      { num: 44, title: "Assessment: Endocrine System" },
+      { num: 45, title: "Diabetes Mellitus" },
+      { num: 46, title: "Endocrine Problems" },
+      { num: 47, title: "Assessment: Reproductive System" },
+      { num: 48, title: "Breast Disorders" },
+      { num: 49, title: "Sexually Transmitted Infections" },
+      { num: 50, title: "Female Reproductive and Genital Problems" },
+      { num: 51, title: "Male Reproductive and Genital Problems" },
+    ],
+  },
+  {
+    number: 11,
+    title: "Problems Related to Movement and Coordination",
+    chapters: [
+      { num: 52, title: "Assessment: Nervous System" },
+      { num: 53, title: "Acute Intracranial Problems" },
+      { num: 54, title: "Stroke" },
+      { num: 55, title: "Chronic Neurologic Problems" },
+      { num: 56, title: "Dementia and Delirium" },
+      { num: 57, title: "Spinal Cord and Peripheral Nerve Problems" },
+      { num: 58, title: "Assessment: Musculoskeletal System" },
+      { num: 59, title: "Musculoskeletal Trauma and Orthopedic Surgery" },
+      { num: 60, title: "Musculoskeletal Problems" },
+      { num: 61, title: "Arthritis and Connective Tissue Diseases" },
+    ],
+  },
+  {
+    number: 12,
+    title: "Emergency and Specialty Nursing",
+    chapters: [
+      { num: 62, title: "Acute Respiratory Failure and ARDS" },
+      { num: 63, title: "Emergency and Disaster Nursing" },
+      { num: 64, title: "Critical Care" },
+    ],
+  },
+];
+
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title="Chapters" description="All chapters from Lewis's Medical-Surgical Nursing 12th Edition organized by unit.">
+  <h1 class="page-title">Chapters</h1>
+  <p class="page-sub">All units and chapters from <em>Lewis's Medical-Surgical Nursing</em>, 12th Edition.</p>
+
+  {units.map((unit) => (
+    <section class="unit">
+      <h2>Unit {unit.number}: {unit.title}</h2>
+      <ul class="chapter-list">
+        {unit.chapters.map((ch) => (
+          <li>
+            <span class="ch-num">Ch. {ch.num}</span>
+            <span class="ch-title">{ch.title}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Layout>
+
+<style>
+  .page-title {
+    font-size: clamp(1.6rem, 3vw, 2.2rem);
+    color: var(--color-primary);
+    margin-bottom: 0.25rem;
+  }
+
+  .page-sub {
+    color: var(--color-muted);
+    margin-bottom: 2rem;
+  }
+
+  .unit {
+    margin-bottom: 2.5rem;
+    background: var(--color-surface);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+
+  .unit h2 {
+    background: var(--color-primary);
+    color: #fff;
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+
+  .chapter-list {
+    list-style: none;
+    padding: 0.5rem 0;
+  }
+
+  .chapter-list li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    padding: 0.55rem 1.25rem;
+    border-bottom: 1px solid #eaf0f6;
+    font-size: 0.95rem;
+  }
+
+  .chapter-list li:last-child { border-bottom: none; }
+
+  .ch-num {
+    min-width: 4.5rem;
+    color: var(--color-accent);
+    font-weight: 600;
+    font-size: 0.85rem;
+  }
+</style>
